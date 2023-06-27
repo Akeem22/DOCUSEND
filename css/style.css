@@ -86,7 +86,11 @@ button{
     color: antiquewhite;
     box-shadow: none;
     border: 0px;
-}#signup_main{
+}
+button:hover{
+    cursor: pointer;
+}
+#signup_main{
     background-color: #41644A;
     margin-top: 0px;
     height: 87vh;
